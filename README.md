@@ -4,16 +4,22 @@ Thanks for stopping by my GitHub profile. I'm a software developer who enjoys ta
 
 ## Some of My Repositories
 
-### [Frontend Group 3 Project](https://github.com/tatoclemente/PF-Front-End-Grupo3.git)
+## [El Festin](https://pf-front-end-grupo3.vercel.app/)
 
-This repository holds the source code for a frontend project I collaborated on with. We utilized technologies like React, Redux, and more to craft an interactive and visually appealing application. Feel free to explore the code and leave your feedback!
+![Frontend Group 3 Project Preview](https://res.cloudinary.com/dnovzb4ys/image/upload/v1692457583/elfestin_2_m5aytd.jpg)
 
-### [Server Project](https://github.com/marcosgallardi/PF-Server.git)
+"El Festin" is a restaurant project that I've been diligently working on. We're blending technology with dining to create a seamless experience. This project highlights the synergy of collaboration and innovation.
 
-In this repository, you'll find the code for a backend server that I developed. I employed technologies such as Express, Firebase, Sequelize, and more to build a robust and scalable API. Don't hesitate to dive into the code and implementation details.
+- [Frontend Repository](https://github.com/tatoclemente/PF-Front-End-Grupo3.git)
+- [Backend Repository](https://github.com/marcosgallardi/PF-Server.git)
 
-### [Videogames Project](https://github.com/Matiasmarensi/VideoGames)
+Explore the repositories to delve into the technical details and discover how we're enhancing the dining experience through technology.
 
+### [Videogames Project](https://video-games-git-main-matiasmarensi.vercel.app/)
+![Frontend Group 3 Project Preview](https://res.cloudinary.com/dnovzb4ys/image/upload/v1692457583/videogames2_ldn6cy.jpg)
+
+- [Repository](https://github.com/Matiasmarensi/VideoGames)
+  
 This repository contains a project that I created using React, Express, Sequelize, and PostgreSQL. The project leverages the RAWG API to display and explore video games. It's a great example of how I integrate various technologies to create interactive and data-driven applications.
 
 ## Technologies I Frequently Use
