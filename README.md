@@ -1,6 +1,6 @@
 # Hello, I'm Matias! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves tackling challenging and creative projects. My goal is to contribute to the world of technology by creating innovative and effective solutions. Here, you'll find a variety of projects that reflect my enthusiasm for development and showcase my skills in different technologies.
+Thanks for stopping by my GitHub profile. I'm a software developer who enjoys tackling real challenges with code. My goal is to build practical solutions that actually make a difference. Take a look around to see some of the projects where I've put my skills to work..
 
 ## Some of My Repositories
 
