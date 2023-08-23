@@ -33,6 +33,12 @@ This repository contains a project that I created using React, Express, Sequeliz
 - Backend: Node.js, Express, Firebase, Sequelize
 - Other Tools: Axios, Socket.io, Swagger
 
+##Contact
+
+Phone: +54 1166860950
+LinkedIn: (https://www.linkedin.com/in/matias-marensi-67059823/)
+eMail: matiasamarensi@gmail.com
+
 Feel free to connect with me and explore my projects! If you have any questions or would like to collaborate on any of my repositories, don't hesitate to reach out. 😄
 
 
