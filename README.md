@@ -49,6 +49,8 @@ This repository contains a project that I created using React, Express, Sequeliz
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/matias-marensi-67059823/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&labelColor=101010)](mailto:matiasamarensi@gmail.com?Subject=Contacto%20por%20colaboración)
 
+![Portfolio](https://img.shields.io/badge/Portfolio-YourColorHere?style=for-the-badge&logo=portfolio)
+
 - **Phone: +54 1166860950**
 <br />
 Feel free to connect with me and explore my projects! If you have any questions or would like to collaborate on any of my repositories, don't hesitate to reach out. 😄
