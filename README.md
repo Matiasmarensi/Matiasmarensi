@@ -29,7 +29,6 @@ This repository contains a project that I created using React, Express, Sequeliz
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=101010)]()
 [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
-
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=101010)]()
 
 - **BACK-END:** <br /> [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
@@ -51,6 +50,9 @@ This repository contains a project that I created using React, Express, Sequeliz
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&labelColor=101010)](mailto:matiasamarensi@gmail.com?Subject=Contacto%20por%20colaboración)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-red?style=for-the-badge&logo=portfolio)](https://portfolio-matiasmarensi.vercel.app/)
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
 - **Phone: +54 1166860950**
 <br />
