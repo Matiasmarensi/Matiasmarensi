@@ -51,8 +51,7 @@ This repository contains a project that I created using React, Express, Sequeliz
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-red?style=for-the-badge&logo=portfolio)](https://portfolio-matiasmarensi.vercel.app/)
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+
 
 - **Phone: +54 1166860950**
 <br />
