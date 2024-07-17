@@ -33,7 +33,7 @@ Thanks for stopping by my GitHub profile. I'm a software developer from Buenos A
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matiasmarensi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-marensi-67059823/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasamarensi@gmail.com?Subject=Contacto%20por%20colaboración)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasmarensi@gmail.com?Subject=Contacto%20por%20colaboración)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-matiasmarensi.vercel.app/)
 
 - **Phone: +54 1166860950**
